@@ -24,3 +24,11 @@ I recently completed a 10-month backend development course focused on:
 ## What I Offer
 
 With my diverse background in game development, backend programming, and product prototyping, I am confident in my ability to make a positive contribution to your team. I am passionate about leveraging my skills to create innovative and impactful solutions.
+<p>
+  <a href="linkedin.com/in/antonio-flores-guerrero-779049250/" target="_blank">
+    <img align="left" alt="Antonio's linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+    <a href="mailto:k.mokshaflores@gmail.com">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
