@@ -11,9 +11,9 @@ With 22+ years of experience in game development, specializing in 3D animation, 
 I recently completed a 10-month backend development course focused on:
 
 - **Python OOP**: Strong object-oriented programming skills in Python.
-- **Django**: Proficient in building scalable web applications with Django.
-- **REST APIs**: Experienced in designing and implementing RESTful services.
-- **Kubernetes & AWS**: Skilled in deploying and managing applications in cloud environments.
+- **Django**: Building scalable web applications with Django.
+- **REST APIs**: Designing and implementing RESTful API.
+- **Kubernetes & AWS**: Gained a strong grasp Deploying and managing applications in cloud environments.
 
 ## Additional Expertise
 
