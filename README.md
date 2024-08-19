@@ -23,7 +23,8 @@ I recently completed a 10-month backend development course focused on:
 
 ## What I Offer
 
-With my diverse background in game development, backend programming, and product prototyping, I am confident in my ability to make a positive contribution to your team. I am passionate about leveraging my skills to create innovative and impactful solutions.
+With my diverse background in game development, backend programming, and product prototyping, I am confident in my ability to make a positive contribution to your team. 
+I am passionate about working on problems and finding innovative solutions.
 
 <p>
   <a href="https://www.linkedin.com/in/antonio-flores-guerrero-779049250/" target="_blank">
