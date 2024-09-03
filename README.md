@@ -13,7 +13,7 @@ I recently completed a 10-month backend development course focused on:
 - **Python OOP**: Strong object-oriented programming skills in Python.
 - **Django**: Building scalable web applications with Django.
 - **REST APIs**: Designing and implementing RESTful API.
-- **AWS**: Gained a strong grasp Deploying and managing applications in cloud environments.
+- **AWS**: Gained a good grasp deploying and managing applications in cloud environments.
 
 ## Additional Expertise
 
