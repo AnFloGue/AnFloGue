@@ -13,8 +13,8 @@ Certified **Scrum Master** and **Product Owner** with a results-oriented approac
 
 ## Certifications
 
-- 🏆 **Professional Scrum Product Owner I (PSPO I)**
-- 🏆 **Professional Scrum Master I (PSM I)**
+- **Professional Scrum Product Owner I (PSPO I)**
+- **Professional Scrum Master I (PSM I)**
 
 ## Technical Skills
 
