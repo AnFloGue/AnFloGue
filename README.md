@@ -19,8 +19,8 @@ Certified **Scrum Master** and **Product Owner** with a results-oriented approac
 ## Technical Skills
 
 ```
-Python          │ Object-oriented programming
-Django          │ Web application development
+**Python**          │ Object-oriented programming
+**Django**          │ Web application development
 REST APIs       │ Design and implementation
 SQL/ORM         │ Relational databases
 ```
