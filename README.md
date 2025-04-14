@@ -13,16 +13,16 @@ Certified **Scrum Master** and **Product Owner** with a results-oriented approac
 
 ## Certifications
 
-- 🏆 **Professional Scrum Product Owner I (PSPO I)**
-- 🏆 **Professional Scrum Master I (PSM I)**
+- **Professional Scrum Product Owner I (PSPO I)**
+- **Professional Scrum Master I (PSM I)**
 
 ## Technical Skills
 
 ```
-📊 Python          │ Object-oriented programming
-🌐 Django          │ Web application development
-🔄 REST APIs       │ Design and implementation
-💾 SQL/ORM         │ Relational databases
+Python          │ Object-oriented programming
+Django          │ Web application development
+REST APIs       │ Design and implementation
+SQL/ORM         │ Relational databases
 ```
 
 ### Software & Tools
@@ -33,9 +33,9 @@ Certified **Scrum Master** and **Product Owner** with a results-oriented approac
 
 ## Management Skills
 
-- 🔄 **Agile Scrum**: Sprint planning, stand-ups, retrospectives, continuous integration, product backlog management
-- 📋 **Kanban**: Workflow visualization, WIP limits, process optimization
-- 👨‍💼 **Product Owner & Scrum Master**: Backlog management, task coordination, workload management, timely delivery
+- **Agile Scrum**: Sprint planning, stand-ups, retrospectives, continuous integration, product backlog management
+- **Kanban**: Workflow visualization, WIP limits, process optimization
+- **Product Owner & Scrum Master**: Backlog management, task coordination, workload management, timely delivery
 
 ## Experience
 
