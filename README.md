@@ -13,14 +13,14 @@ Certified **Scrum Master** and **Product Owner** with a results-oriented approac
 
 ## Certifications
 
-- **Professional Scrum Product Owner I (PSPO I)**
-- **Professional Scrum Master I (PSM I)**
+- 🏆 **Professional Scrum Product Owner I (PSPO I)**
+- 🏆 **Professional Scrum Master I (PSM I)**
 
 ## Technical Skills
 
 ```
-**Python**          │ Object-oriented programming
-**Django**          │ Web application development
+Python          │ Object-oriented programming
+Django          │ Web application development
 REST APIs       │ Design and implementation
 SQL/ORM         │ Relational databases
 ```
@@ -74,14 +74,14 @@ SQL/ORM         │ Relational databases
 
 ## Education
 
-- 💻 **MasterSchool**: Backend Software Engineer
-- 🎓 **University of Málaga (Spain)**: Teacher for children with disabilities
+- **MasterSchool**: Backend Software Engineer
+- **University of Málaga (Spain)**: Teacher for children with disabilities
 
 ## Languages
 
-- 🇪🇸 Spanish (Native)
-- 🇬🇧 English (Fluent)
-- 🇩🇪 German (B2)
+- Spanish (Native)
+- English (Fluent)
+- German (B2)
 
 ---
 
