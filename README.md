@@ -63,4 +63,24 @@ Experienced project manager (13 apps, 5 films, 4 TV series) with deep expertise 
 - Produced animations, rigging, and 3D modeling (e.g., 8BallAllstars, Hysteria Hospital, PDC Championship Darts).
 
 ### Technician Motion Capture/Editor | CENTROID MOTION CAPTURE Std. LTD., London (UK) | 2007 - 2009
-- Produced animations, motion captures, and cutscenes for movies, games
+- Produced animations, motion captures, and cutscenes for movies, games, and TV series (e.g., Angels & Demons, Quantum of Solace).
+
+### Senior Animator, Motion Capture Editor | FUNCOM LTD., Oslo (Norway) | 2005 - 2007
+- Produced and edited motion capture shots for in-game use (e.g., Anarchy Online, Age of Conan, The Longest Journey).
+
+## Education
+
+- **Software Engineer**
+- **Teacher for children with disabilities**
+
+## Languages
+
+- Spanish (Native)
+- English (Native)
+- German (B2)
+
+---
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+</p>
