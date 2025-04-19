@@ -34,7 +34,7 @@ Experienced project manager (13 apps, 5 films, 4 TV series) with deep expertise 
 ## Skills
 
 - **Software Engineer**: Backend
-- **Agile Scrum**: Sprint planning, stand-ups, retrospectives, continuous integration, product backlog management.
+- **Agile Scrum**: Sprint planning, dailies, scrum retrospectives, scrum reviews, product backlog management.
 - **Kanban**: Workflow visualization, WIP limits, process optimization.
 - **Product Owner & Scrum Master (Certified)**: Backlog management, task coordination, workload management, timely delivery.
 
