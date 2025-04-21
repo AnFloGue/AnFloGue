@@ -9,7 +9,7 @@
 
 ## Profile Summary
 
-Problem-solver with a love for building things and a results-oriented mindset, 22+ years in web/game development, film, and TV, delivering quality products across diverse platforms.
+Problem-solver with a love for developing-building things and a results-oriented mindset, 22+ years in web/game development, film, and TV, delivering quality products across diverse platforms.
 Experienced project manager (13 apps, 5 films, 4 TV series) with deep expertise in Agile/Scrum (PSPO I, PSM I certified) as Product Owner/Scrum Master, and a keen eye for UI/UX.
 
 ## Certifications
