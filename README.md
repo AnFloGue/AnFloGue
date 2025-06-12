@@ -11,7 +11,8 @@
 
 A results-oriented problem-solver with a passion for building innovative solutions, leveraging **24+ years** of experience across web/game development, film, and TV. Proven ability to deliver high-quality products across diverse platforms.
 
-Experienced project manager with a track record of successfully leading **13 apps, 5 films, and 4 TV series**. Deep understanding of Agile/Scrum methodologies (PSPO I, PSM I certified) as a skilled Product Owner and Scrum Master, complemented by a strong focus on UI/UX principles.
+Experienced project manager with a track record of successfully leading **13 apps, 5 films, and 4 TV series**. Deep understanding of Agile/Scrum methodologies (PSPO I, PSM I certified) as a skilled Product Owner and Scrum Master, complemented by a strong focus on UI/UX principles. With a track record of delivering well-constructed micro-services and API gateways.
+
 
 ## Certifications
 
